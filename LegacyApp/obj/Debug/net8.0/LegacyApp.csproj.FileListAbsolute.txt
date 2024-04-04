@@ -1,0 +1,12 @@
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll

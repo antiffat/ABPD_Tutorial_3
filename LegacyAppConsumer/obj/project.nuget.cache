@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FM1ierVev8smBWF9RRevn82NZOIMLjQu3DNyKBfbMIqTtMuvMoMP7GJodDoFJZQ2tJWe2OACRNb9eCxzMGnlIA==",
+  "dgSpecHash": "3WpTMIOn4hlfXa2jp76sn/+puSTD9MQvjkmONmT8LvLR2DzTvvRgSbyHKuU/HP8hxpSlHmVG/AElCoI31GmmTw==",
   "success": true,
   "projectFilePath": "/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyAppConsumer/LegacyAppConsumer.csproj",
-  "expectedPackageFiles": [
-    "/Users/antiffat/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/Users/antiffat/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/antiffat/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
