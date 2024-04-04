@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/antiffat/.dotnet/store/|arch|/|tfm|",
+      "/Users/antiffat/.nuget/packages"
+    ]
+  }
+}
