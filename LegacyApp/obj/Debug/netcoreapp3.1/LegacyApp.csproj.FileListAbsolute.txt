@@ -17,3 +17,4 @@
 /Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.CoreCompileInputs.cache
 /Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.dll
 /Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.pdb
+/Users/antiffat/semester_4/ABPD/zadanie_solution/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.sourcelink.json
