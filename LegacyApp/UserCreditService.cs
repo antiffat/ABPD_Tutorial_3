@@ -33,8 +33,8 @@ namespace LegacyApp
             int randomWaitingTime = new Random().Next(3000);
             Thread.Sleep(randomWaitingTime);
 
-            if (_database.ContainsKey(lastName))
-                return _database[lastName];
+            if (_database.TryGetValue(lastName, out var creditLimit))
+                return creditLimit;
 
             throw new ArgumentException($"Client {lastName} does not exist");
         }
