@@ -11,7 +11,7 @@ namespace LegacyApp
         {
         }
 
-        public UserService(IClientRepository clientRepository, IUserCreditService userCreditService)
+        private UserService(IClientRepository clientRepository, IUserCreditService userCreditService)
         {
             this._clientRepository = clientRepository;
             this._userCreditService = userCreditService;
